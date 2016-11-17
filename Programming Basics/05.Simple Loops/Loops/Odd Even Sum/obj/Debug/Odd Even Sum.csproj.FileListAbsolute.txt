@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Odd Even Sum\bin\Debug\Odd Even Sum.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Odd Even Sum\bin\Debug\Odd Even Sum.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Odd Even Sum\bin\Debug\Odd Even Sum.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Odd Even Sum\obj\Debug\Odd Even Sum.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Odd Even Sum\obj\Debug\Odd Even Sum.pdb

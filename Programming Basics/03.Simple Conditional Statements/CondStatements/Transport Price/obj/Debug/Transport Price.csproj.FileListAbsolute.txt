@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\Transport Price\bin\Debug\Transport Price.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\Transport Price\bin\Debug\Transport Price.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\Transport Price\bin\Debug\Transport Price.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\Transport Price\obj\Debug\Transport Price.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\Transport Price\obj\Debug\Transport Price.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\Transport Price\obj\Debug\Transport Price.pdb

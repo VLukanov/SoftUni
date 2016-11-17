@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Number Table\bin\Debug\Number Table.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Number Table\bin\Debug\Number Table.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Number Table\bin\Debug\Number Table.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Number Table\obj\Debug\Number Table.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Number Table\obj\Debug\Number Table.pdb

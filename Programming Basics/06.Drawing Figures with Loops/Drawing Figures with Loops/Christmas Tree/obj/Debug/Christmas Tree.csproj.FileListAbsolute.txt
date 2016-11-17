@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Christmas Tree\bin\Debug\Christmas Tree.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Christmas Tree\bin\Debug\Christmas Tree.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Christmas Tree\bin\Debug\Christmas Tree.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Christmas Tree\obj\Debug\Christmas Tree.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Christmas Tree\obj\Debug\Christmas Tree.pdb

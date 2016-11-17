@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Triangle of Dollars\bin\Debug\Triangle of Dollars.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Triangle of Dollars\obj\Debug\Triangle of Dollars.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Triangle of Dollars\obj\Debug\Triangle of Dollars.pdb

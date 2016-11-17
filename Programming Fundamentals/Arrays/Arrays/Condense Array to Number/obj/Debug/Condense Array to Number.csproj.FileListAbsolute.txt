@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Condense Array to Number\bin\Debug\Condense Array to Number.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Condense Array to Number\bin\Debug\Condense Array to Number.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Condense Array to Number\bin\Debug\Condense Array to Number.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Condense Array to Number\obj\Debug\Condense Array to Number.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Condense Array to Number\obj\Debug\Condense Array to Number.pdb

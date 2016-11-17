@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Print String Letters\bin\Debug\Print String Letters.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Print String Letters\bin\Debug\Print String Letters.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Print String Letters\bin\Debug\Print String Letters.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Print String Letters\obj\Debug\Print String Letters.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Print String Letters\obj\Debug\Print String Letters.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Print String Letters\obj\Debug\Print String Letters.pdb

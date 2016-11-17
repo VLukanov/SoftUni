@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Objects and Classes\Objects and Classes\Day of Week\bin\Debug\Day of Week.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Objects and Classes\Objects and Classes\Day of Week\bin\Debug\Day of Week.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Objects and Classes\Objects and Classes\Day of Week\bin\Debug\Day of Week.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Objects and Classes\Objects and Classes\Day of Week\obj\Debug\Day of Week.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Objects and Classes\Objects and Classes\Day of Week\obj\Debug\Day of Week.pdb

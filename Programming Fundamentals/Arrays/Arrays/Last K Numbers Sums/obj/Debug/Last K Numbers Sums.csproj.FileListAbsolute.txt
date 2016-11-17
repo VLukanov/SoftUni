@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Last K Numbers Sums\bin\Debug\Last K Numbers Sums.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Last K Numbers Sums\bin\Debug\Last K Numbers Sums.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Last K Numbers Sums\bin\Debug\Last K Numbers Sums.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Last K Numbers Sums\obj\Debug\Last K Numbers Sums.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Last K Numbers Sums\obj\Debug\Last K Numbers Sums.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Last K Numbers Sums\obj\Debug\Last K Numbers Sums.csprojResolveAssemblyReference.cache

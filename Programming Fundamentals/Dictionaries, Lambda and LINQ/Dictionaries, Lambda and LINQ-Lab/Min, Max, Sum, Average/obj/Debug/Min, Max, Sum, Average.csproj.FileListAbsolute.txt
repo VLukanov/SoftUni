@@ -1,0 +1,1 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Min, Max, Sum, Average\bin\Debug\Min, Max, Sum, Average.exe.config

@@ -1,0 +1,3 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Enter Even Number\bin\Debug\Enter Even Number.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Enter Even Number\obj\Debug\Enter Even Number.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Enter Even Number\obj\Debug\Enter Even Number.csprojResolveAssemblyReference.cache

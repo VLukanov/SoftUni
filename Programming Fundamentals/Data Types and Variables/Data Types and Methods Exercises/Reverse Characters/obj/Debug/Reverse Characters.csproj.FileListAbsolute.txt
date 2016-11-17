@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\Data Types and Methods Exercises\Reverse Characters\bin\Debug\Reverse Characters.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\Data Types and Methods Exercises\Reverse Characters\bin\Debug\Reverse Characters.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\Data Types and Methods Exercises\Reverse Characters\bin\Debug\Reverse Characters.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\Data Types and Methods Exercises\Reverse Characters\obj\Debug\Reverse Characters.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\Data Types and Methods Exercises\Reverse Characters\obj\Debug\Reverse Characters.pdb

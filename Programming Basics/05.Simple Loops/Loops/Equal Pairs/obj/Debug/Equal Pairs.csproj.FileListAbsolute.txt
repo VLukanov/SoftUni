@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Equal Pairs\bin\Debug\Equal Pairs.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Equal Pairs\bin\Debug\Equal Pairs.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Equal Pairs\bin\Debug\Equal Pairs.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Equal Pairs\obj\Debug\Equal Pairs.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Equal Pairs\obj\Debug\Equal Pairs.pdb

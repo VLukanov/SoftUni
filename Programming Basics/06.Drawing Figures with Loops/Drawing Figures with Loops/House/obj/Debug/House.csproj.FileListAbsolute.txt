@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\House\bin\Debug\House.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\House\bin\Debug\House.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\House\bin\Debug\House.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\House\obj\Debug\House.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\House\obj\Debug\House.pdb

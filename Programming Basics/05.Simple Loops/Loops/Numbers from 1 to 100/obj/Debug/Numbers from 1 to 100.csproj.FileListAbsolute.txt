@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Numbers from 1 to 100\bin\Debug\Numbers from 1 to 100.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Numbers from 1 to 100\bin\Debug\Numbers from 1 to 100.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Numbers from 1 to 100\bin\Debug\Numbers from 1 to 100.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Numbers from 1 to 100\obj\Debug\Numbers from 1 to 100.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Numbers from 1 to 100\obj\Debug\Numbers from 1 to 100.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Numbers from 1 to 100\obj\Debug\Numbers from 1 to 100.pdb

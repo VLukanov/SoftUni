@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\First Steps in Coding\Simple Calculations\Triangle Area\bin\Debug\Triangle Area.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Triangle Area\bin\Debug\Triangle Area.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Triangle Area\bin\Debug\Triangle Area.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Triangle Area\bin\Debug\Triangle Area.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Triangle Area\obj\Debug\Triangle Area.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Triangle Area\obj\Debug\Triangle Area.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Triangle Area\obj\Debug\Triangle Area.pdb

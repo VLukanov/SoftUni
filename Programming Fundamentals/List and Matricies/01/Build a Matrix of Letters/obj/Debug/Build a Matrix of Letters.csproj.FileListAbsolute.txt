@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Build a Matrix of Letters\bin\Debug\Build a Matrix of Letters.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Build a Matrix of Letters\bin\Debug\Build a Matrix of Letters.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Build a Matrix of Letters\bin\Debug\Build a Matrix of Letters.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Build a Matrix of Letters\obj\Debug\Build a Matrix of Letters.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Build a Matrix of Letters\obj\Debug\Build a Matrix of Letters.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Build a Matrix of Letters\obj\Debug\Build a Matrix of Letters.pdb

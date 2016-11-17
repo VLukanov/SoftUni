@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Numbers Ending in 7\bin\Debug\Numbers Ending in 7.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Numbers Ending in 7\bin\Debug\Numbers Ending in 7.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Numbers Ending in 7\bin\Debug\Numbers Ending in 7.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Numbers Ending in 7\obj\Debug\Numbers Ending in 7.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Numbers Ending in 7\obj\Debug\Numbers Ending in 7.pdb

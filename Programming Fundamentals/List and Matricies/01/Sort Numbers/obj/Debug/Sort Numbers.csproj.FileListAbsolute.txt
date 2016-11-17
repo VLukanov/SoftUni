@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Sort Numbers\bin\Debug\Sort Numbers.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Sort Numbers\bin\Debug\Sort Numbers.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Sort Numbers\bin\Debug\Sort Numbers.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Sort Numbers\obj\Debug\Sort Numbers.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Sort Numbers\obj\Debug\Sort Numbers.pdb

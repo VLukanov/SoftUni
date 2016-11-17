@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\Data Types and Methods Exercises\Strings And Objects\bin\Debug\Strings And Objects.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\Data Types and Methods Exercises\Strings And Objects\bin\Debug\Strings And Objects.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\Data Types and Methods Exercises\Strings And Objects\bin\Debug\Strings And Objects.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\Data Types and Methods Exercises\Strings And Objects\obj\Debug\Strings And Objects.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\Data Types and Methods Exercises\Strings And Objects\obj\Debug\Strings And Objects.pdb

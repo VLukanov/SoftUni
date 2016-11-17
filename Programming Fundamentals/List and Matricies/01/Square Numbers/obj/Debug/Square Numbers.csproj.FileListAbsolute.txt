@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Square Numbers\bin\Debug\Square Numbers.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Square Numbers\bin\Debug\Square Numbers.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Square Numbers\bin\Debug\Square Numbers.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Square Numbers\obj\Debug\Square Numbers.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Square Numbers\obj\Debug\Square Numbers.pdb

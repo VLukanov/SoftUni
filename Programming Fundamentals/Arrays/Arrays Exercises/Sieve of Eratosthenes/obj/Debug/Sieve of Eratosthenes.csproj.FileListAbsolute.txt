@@ -1,0 +1,1 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays Exercises\Sieve of Eratosthenes\bin\Debug\Sieve of Eratosthenes.exe.config

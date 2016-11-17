@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\Number 100...200\bin\Debug\Number_100._._._200.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\Number 100...200\bin\Debug\Number_100._._._200.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\Number 100...200\bin\Debug\Number_100._._._200.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\Number 100...200\obj\Debug\Number_100._._._200.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\Number 100...200\obj\Debug\Number_100._._._200.pdb

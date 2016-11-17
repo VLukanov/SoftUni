@@ -1,0 +1,1 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe.config

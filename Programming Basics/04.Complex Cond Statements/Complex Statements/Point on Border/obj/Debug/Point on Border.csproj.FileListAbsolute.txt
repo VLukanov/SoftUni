@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\04.Complex Cond Statements\Complex Statements\Complex Conditional Statements\Point on Border\bin\Debug\Point on Border.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\04.Complex Cond Statements\Complex Statements\Complex Conditional Statements\Point on Border\bin\Debug\Point on Border.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\04.Complex Cond Statements\Complex Statements\Complex Conditional Statements\Point on Border\bin\Debug\Point on Border.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\04.Complex Cond Statements\Complex Statements\Complex Conditional Statements\Point on Border\obj\Debug\Point on Border.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\04.Complex Cond Statements\Complex Statements\Complex Conditional Statements\Point on Border\obj\Debug\Point on Border.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\04.Complex Cond Statements\Complex Statements\Complex Conditional Statements\Point on Border\obj\Debug\Point on Border.pdb

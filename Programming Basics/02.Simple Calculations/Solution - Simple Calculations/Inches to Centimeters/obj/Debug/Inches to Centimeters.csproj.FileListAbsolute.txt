@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\First Steps in Coding\Simple Calculations\Inches to Centimeters\bin\Debug\Inches to Centimeters.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Inches to Centimeters\bin\Debug\Inches to Centimeters.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Inches to Centimeters\bin\Debug\Inches to Centimeters.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Inches to Centimeters\bin\Debug\Inches to Centimeters.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Inches to Centimeters\obj\Debug\Inches to Centimeters.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Inches to Centimeters\obj\Debug\Inches to Centimeters.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Inches to Centimeters\obj\Debug\Inches to Centimeters.pdb

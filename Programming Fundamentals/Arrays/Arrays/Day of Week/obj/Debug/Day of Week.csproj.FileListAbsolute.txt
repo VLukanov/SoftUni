@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Day of Week\bin\Debug\Day of Week.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Day of Week\bin\Debug\Day of Week.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Day of Week\bin\Debug\Day of Week.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Day of Week\obj\Debug\Day of Week.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Day of Week\obj\Debug\Day of Week.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Day of Week\obj\Debug\Day of Week.pdb

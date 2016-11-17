@@ -1,0 +1,1 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Occurrences in String\bin\Debug\Occurrences in String.exe.config

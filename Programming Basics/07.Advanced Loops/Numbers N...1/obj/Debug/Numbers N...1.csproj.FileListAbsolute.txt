@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Numbers N...1\bin\Debug\Numbers_N._._._1.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Numbers N...1\bin\Debug\Numbers_N._._._1.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Numbers N...1\bin\Debug\Numbers_N._._._1.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Numbers N...1\obj\Debug\Numbers_N._._._1.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Numbers N...1\obj\Debug\Numbers_N._._._1.pdb

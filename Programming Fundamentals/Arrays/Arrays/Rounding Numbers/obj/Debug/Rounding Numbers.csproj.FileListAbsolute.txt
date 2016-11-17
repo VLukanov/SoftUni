@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Rounding Numbers\bin\Debug\Rounding Numbers.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Rounding Numbers\bin\Debug\Rounding Numbers.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Rounding Numbers\bin\Debug\Rounding Numbers.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Rounding Numbers\obj\Debug\Rounding Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Rounding Numbers\obj\Debug\Rounding Numbers.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Rounding Numbers\obj\Debug\Rounding Numbers.pdb

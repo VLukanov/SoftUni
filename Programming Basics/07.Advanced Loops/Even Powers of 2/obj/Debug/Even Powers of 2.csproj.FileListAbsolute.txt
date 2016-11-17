@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Even Powers of 2\bin\Debug\Even Powers of 2.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Even Powers of 2\bin\Debug\Even Powers of 2.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Even Powers of 2\bin\Debug\Even Powers of 2.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Even Powers of 2\obj\Debug\Even Powers of 2.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Even Powers of 2\obj\Debug\Even Powers of 2.pdb

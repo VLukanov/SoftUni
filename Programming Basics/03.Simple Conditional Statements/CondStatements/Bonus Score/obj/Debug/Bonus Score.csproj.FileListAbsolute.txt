@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\Bonus Score\bin\Debug\Bonus Score.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\Bonus Score\bin\Debug\Bonus Score.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\Bonus Score\bin\Debug\Bonus Score.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\Bonus Score\obj\Debug\Bonus Score.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\Bonus Score\obj\Debug\Bonus Score.pdb

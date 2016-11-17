@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Largest 3 Numbers\bin\Debug\Largest 3 Numbers.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Largest 3 Numbers\bin\Debug\Largest 3 Numbers.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Largest 3 Numbers\bin\Debug\Largest 3 Numbers.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Largest 3 Numbers\obj\Debug\Largest 3 Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Largest 3 Numbers\obj\Debug\Largest 3 Numbers.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Largest 3 Numbers\obj\Debug\Largest 3 Numbers.pdb

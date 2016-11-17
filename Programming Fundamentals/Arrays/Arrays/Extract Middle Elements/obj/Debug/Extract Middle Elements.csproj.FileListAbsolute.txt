@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Extract Middle Elements\bin\Debug\Extract Middle Elements.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Extract Middle Elements\bin\Debug\Extract Middle Elements.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Extract Middle Elements\bin\Debug\Extract Middle Elements.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Extract Middle Elements\obj\Debug\Extract Middle Elements.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Extract Middle Elements\obj\Debug\Extract Middle Elements.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Extract Middle Elements\obj\Debug\Extract Middle Elements.pdb

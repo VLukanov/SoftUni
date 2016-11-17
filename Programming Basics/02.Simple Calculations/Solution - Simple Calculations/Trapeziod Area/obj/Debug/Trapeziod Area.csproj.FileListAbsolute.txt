@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\First Steps in Coding\Simple Calculations\Trapeziod Area\bin\Debug\Trapeziod Area.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Trapeziod Area\bin\Debug\Trapeziod Area.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Trapeziod Area\bin\Debug\Trapeziod Area.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Trapeziod Area\bin\Debug\Trapeziod Area.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Trapeziod Area\obj\Debug\Trapeziod Area.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Trapeziod Area\obj\Debug\Trapeziod Area.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Trapeziod Area\obj\Debug\Trapeziod Area.pdb

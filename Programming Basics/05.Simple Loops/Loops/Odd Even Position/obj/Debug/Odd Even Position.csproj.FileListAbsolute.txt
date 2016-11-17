@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Odd Even Position\bin\Debug\Odd Even Position.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Odd Even Position\bin\Debug\Odd Even Position.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Odd Even Position\bin\Debug\Odd Even Position.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Odd Even Position\obj\Debug\Odd Even Position.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Odd Even Position\obj\Debug\Odd Even Position.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\05.Simple Loops\Simple Loops\Loops\Odd Even Position\obj\Debug\Odd Even Position.pdb

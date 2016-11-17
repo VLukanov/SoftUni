@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\Data Types and Variables\Special Numbers\bin\Debug\Special Numbers.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\Data Types and Variables\Special Numbers\bin\Debug\Special Numbers.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\Data Types and Variables\Special Numbers\bin\Debug\Special Numbers.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\Data Types and Variables\Special Numbers\obj\Debug\Special Numbers.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\Data Types and Variables\Special Numbers\obj\Debug\Special Numbers.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Data Types and Variables\Data Types and Variables\Special Numbers\obj\Debug\Special Numbers.pdb

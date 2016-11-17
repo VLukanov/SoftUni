@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Count Letters in String\bin\Debug\Count Letters in String.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Count Letters in String\bin\Debug\Count Letters in String.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Count Letters in String\bin\Debug\Count Letters in String.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Count Letters in String\obj\Debug\Count Letters in String.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Dictionaries, Lambda and LINQ\Dictionaries, Lambda and LINQ-Lab\Count Letters in String\obj\Debug\Count Letters in String.pdb

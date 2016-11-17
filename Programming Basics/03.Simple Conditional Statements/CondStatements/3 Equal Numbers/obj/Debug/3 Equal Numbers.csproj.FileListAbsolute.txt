@@ -1,0 +1,1 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\03.Simple Conditional Statements\Solution - Simple Conditional Statements\CondStatements\3 Equal Numbers\bin\Debug\3 Equal Numbers.exe.config

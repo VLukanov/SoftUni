@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\Append Lists\bin\Debug\Append Lists.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\Append Lists\bin\Debug\Append Lists.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\Append Lists\bin\Debug\Append Lists.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\Append Lists\obj\Debug\Append Lists.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\Append Lists\obj\Debug\Append Lists.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\Append Lists\obj\Debug\Append Lists.pdb

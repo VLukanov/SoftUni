@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\First Steps in Coding\Simple Calculations\Square Area\bin\Debug\Square Area.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\First Steps in Coding\Simple Calculations\Square Area\bin\Debug\Square Area.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\First Steps in Coding\Simple Calculations\Square Area\bin\Debug\Square Area.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\First Steps in Coding\Simple Calculations\Square Area\obj\Debug\Square Area.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\First Steps in Coding\Simple Calculations\Square Area\obj\Debug\Square Area.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Square Area\bin\Debug\Square Area.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Square Area\obj\Debug\Square Area.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Square Area\obj\Debug\Square Area.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Square Area\bin\Debug\Square Area.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Square Area\bin\Debug\Square Area.pdb

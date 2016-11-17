@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\First Steps in Coding\Simple Calculations\Radians to Degrees\bin\Debug\Radians to Degrees.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\First Steps in Coding\Simple Calculations\Radians to Degrees\bin\Debug\Radians to Degrees.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\First Steps in Coding\Simple Calculations\Radians to Degrees\bin\Debug\Radians to Degrees.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\First Steps in Coding\Simple Calculations\Radians to Degrees\obj\Debug\Radians to Degrees.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\First Steps in Coding\Simple Calculations\Radians to Degrees\obj\Debug\Radians to Degrees.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\First Steps in Coding\Simple Calculations\Radians to Degrees\obj\Debug\Radians to Degrees.pdb

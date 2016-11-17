@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\bin\Debug\01.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\bin\Debug\01.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\bin\Debug\01.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\obj\Debug\Remove Negatives and Reverse.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\obj\Debug\01.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\obj\Debug\01.pdb

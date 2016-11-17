@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Objects and Classes\Exam I\Sweet Dessert\bin\Debug\Sweet Dessert.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Objects and Classes\Exam I\Sweet Dessert\bin\Debug\Sweet Dessert.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Objects and Classes\Exam I\Sweet Dessert\bin\Debug\Sweet Dessert.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Objects and Classes\Exam I\Sweet Dessert\obj\Debug\Sweet Dessert.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Objects and Classes\Exam I\Sweet Dessert\obj\Debug\Sweet Dessert.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Objects and Classes\Exam I\Sweet Dessert\obj\Debug\Sweet Dessert.pdb

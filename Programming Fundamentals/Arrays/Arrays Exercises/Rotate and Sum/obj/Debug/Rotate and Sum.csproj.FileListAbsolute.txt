@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays Exercises\Rotate and Sum\bin\Debug\Rotate and Sum.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays Exercises\Rotate and Sum\bin\Debug\Rotate and Sum.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays Exercises\Rotate and Sum\bin\Debug\Rotate and Sum.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays Exercises\Rotate and Sum\obj\Debug\Rotate and Sum.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays Exercises\Rotate and Sum\obj\Debug\Rotate and Sum.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays Exercises\Rotate and Sum\obj\Debug\Rotate and Sum.pdb

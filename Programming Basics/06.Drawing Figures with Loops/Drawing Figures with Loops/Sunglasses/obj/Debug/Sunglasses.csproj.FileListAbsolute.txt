@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Sunglasses\bin\Debug\Sunglasses.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Sunglasses\bin\Debug\Sunglasses.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Sunglasses\bin\Debug\Sunglasses.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Sunglasses\obj\Debug\Sunglasses.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Sunglasses\obj\Debug\Sunglasses.pdb

@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Reverse Array of Strings\bin\Debug\Reverse Array of Strings.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Reverse Array of Strings\bin\Debug\Reverse Array of Strings.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Reverse Array of Strings\bin\Debug\Reverse Array of Strings.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Reverse Array of Strings\obj\Debug\Reverse Array of Strings.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Arrays\Arrays\Reverse Array of Strings\obj\Debug\Reverse Array of Strings.pdb

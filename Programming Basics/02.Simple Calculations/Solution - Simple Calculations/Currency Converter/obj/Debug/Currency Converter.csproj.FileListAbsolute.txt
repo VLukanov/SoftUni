@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\First Steps in Coding\Simple Calculations\Currency Converter\bin\Debug\Currency Converter.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Currency Converter\bin\Debug\Currency Converter.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Currency Converter\bin\Debug\Currency Converter.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Currency Converter\bin\Debug\Currency Converter.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Currency Converter\obj\Debug\Currency Converter.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\Currency Converter\obj\Debug\Currency Converter.pdb

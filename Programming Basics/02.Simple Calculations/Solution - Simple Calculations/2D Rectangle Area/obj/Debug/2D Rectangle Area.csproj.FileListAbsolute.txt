@@ -1,0 +1,7 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\First Steps in Coding\Simple Calculations\2D Rectangle Area\bin\Debug\2D Rectangle Area.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\2D Rectangle Area\bin\Debug\2D Rectangle Area.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\2D Rectangle Area\bin\Debug\2D Rectangle Area.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\2D Rectangle Area\bin\Debug\2D Rectangle Area.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\2D Rectangle Area\obj\Debug\2D Rectangle Area.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\2D Rectangle Area\obj\Debug\2D Rectangle Area.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\Simple Calculations\Simple Calculations\2D Rectangle Area\obj\Debug\2D Rectangle Area.pdb

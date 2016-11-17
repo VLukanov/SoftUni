@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Count Numbers\bin\Debug\Count Numbers.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Count Numbers\bin\Debug\Count Numbers.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Count Numbers\bin\Debug\Count Numbers.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Count Numbers\obj\Debug\Count Numbers.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\List and Matricies\01\Count Numbers\obj\Debug\Count Numbers.pdb

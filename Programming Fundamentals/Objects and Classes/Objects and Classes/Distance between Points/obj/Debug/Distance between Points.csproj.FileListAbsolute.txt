@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Objects and Classes\Objects and Classes\Distance between Points\bin\Debug\Distance between Points.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Objects and Classes\Objects and Classes\Distance between Points\bin\Debug\Distance between Points.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Objects and Classes\Objects and Classes\Distance between Points\bin\Debug\Distance between Points.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Objects and Classes\Objects and Classes\Distance between Points\obj\Debug\Distance between Points.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Fundamentals\Objects and Classes\Objects and Classes\Distance between Points\obj\Debug\Distance between Points.pdb

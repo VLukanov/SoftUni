@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Draw Fort\bin\Debug\Draw Fort.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Draw Fort\bin\Debug\Draw Fort.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Draw Fort\bin\Debug\Draw Fort.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Draw Fort\obj\Debug\Draw Fort.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\06.Drawing Figures with Loops\Drawing Figures with Loops\Draw Fort\obj\Debug\Draw Fort.pdb

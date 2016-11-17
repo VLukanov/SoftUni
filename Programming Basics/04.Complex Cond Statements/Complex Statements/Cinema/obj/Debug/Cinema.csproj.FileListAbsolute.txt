@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\04.Complex Cond Statements\Complex Statements\Complex Conditional Statements\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\04.Complex Cond Statements\Complex Statements\Complex Conditional Statements\Cinema\bin\Debug\Cinema.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\04.Complex Cond Statements\Complex Statements\Complex Conditional Statements\Cinema\bin\Debug\Cinema.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\04.Complex Cond Statements\Complex Statements\Complex Conditional Statements\Cinema\obj\Debug\Cinema.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\04.Complex Cond Statements\Complex Statements\Complex Conditional Statements\Cinema\obj\Debug\Cinema.pdb

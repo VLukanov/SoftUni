@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\04.Complex Cond Statements\Complex Statements\Complex Conditional Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\04.Complex Cond Statements\Complex Statements\Complex Conditional Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\04.Complex Cond Statements\Complex Statements\Complex Conditional Statements\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\04.Complex Cond Statements\Complex Statements\Complex Conditional Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\04.Complex Cond Statements\Complex Statements\Complex Conditional Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\04.Complex Cond Statements\Complex Statements\Complex Conditional Statements\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb

@@ -1,0 +1,5 @@
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.exe.config
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Sequence 2k+1\bin\Debug\Sequence 2k+1.pdb
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Sequence 2k+1\obj\Debug\Sequence 2k+1.exe
+C:\Users\Lenovo\Desktop\SoftUni\Programming Basics\07.Advanced Loops\Advanced Loops\Sequence 2k+1\obj\Debug\Sequence 2k+1.pdb
